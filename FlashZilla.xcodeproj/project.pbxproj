@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		AF10506A23AD2F9E00EF1250 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF10506923AD2F9E00EF1250 /* Card.swift */; };
 		AF10506C23AD30EB00EF1250 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF10506B23AD30EB00EF1250 /* CardView.swift */; };
+		AF10507023B11FA600EF1250 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF10506F23B11FA600EF1250 /* EditView.swift */; };
 		AF7CFAA323AA84B900ED5835 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7CFAA223AA84B900ED5835 /* AppDelegate.swift */; };
 		AF7CFAA523AA84B900ED5835 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7CFAA423AA84B900ED5835 /* SceneDelegate.swift */; };
 		AF7CFAA723AA84B900ED5835 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AF7CFAA623AA84B900ED5835 /* ContentView.swift */; };
@@ -20,6 +21,7 @@
 /* Begin PBXFileReference section */
 		AF10506923AD2F9E00EF1250 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		AF10506B23AD30EB00EF1250 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		AF10506F23B11FA600EF1250 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 		AF7CFA9F23AA84B900ED5835 /* FlashZilla.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FlashZilla.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF7CFAA223AA84B900ED5835 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AF7CFAA423AA84B900ED5835 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -68,6 +70,7 @@
 				AF7CFAB023AA84BA00ED5835 /* Info.plist */,
 				AF7CFAAA23AA84BA00ED5835 /* Preview Content */,
 				AF10506923AD2F9E00EF1250 /* Card.swift */,
+				AF10506F23B11FA600EF1250 /* EditView.swift */,
 				AF10506B23AD30EB00EF1250 /* CardView.swift */,
 			);
 			path = FlashZilla;
@@ -154,6 +157,7 @@
 			files = (
 				AF7CFAA323AA84B900ED5835 /* AppDelegate.swift in Sources */,
 				AF7CFAA523AA84B900ED5835 /* SceneDelegate.swift in Sources */,
+				AF10507023B11FA600EF1250 /* EditView.swift in Sources */,
 				AF7CFAA723AA84B900ED5835 /* ContentView.swift in Sources */,
 				AF10506A23AD2F9E00EF1250 /* Card.swift in Sources */,
 				AF10506C23AD30EB00EF1250 /* CardView.swift in Sources */,
